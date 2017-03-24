@@ -2,3 +2,5 @@ Flask==0.12
 requests==2.13.0
 SQLAlchemy==1.1.5
 watson_developer_cloud==0.25.2
+gunicorn==19.7.1
+
