@@ -57,10 +57,10 @@ def webhook():
             # print "count was " + str(count)
             count += 1
             global context
-            # print "data recieved is : "
-            # print (json.dumps(data,indent=2))
-            # print "context used to obtain response was : "
-            # print (json.dumps(context, indent=2))
+            print ("data recieved is : ")
+            print (json.dumps(data,indent=2))
+            print ("context used to obtain response was : ")
+            print (json.dumps(context, indent=2))
             global response
 
             #do these steps only if request is coming from facebook api
