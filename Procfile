@@ -1,3 +1,3 @@
-web: gunicorn deoloy:app
+web: gunicorn flask_try:app
 
 
