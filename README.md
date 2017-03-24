@@ -14,9 +14,9 @@
  81234567      :   &nbsp;          8888<br>
  
  
- The app is deployed on ngrok provisionally.
- Credentials for Facebook Account for bot page :
- Email : submissionbyiitg@gmail.com
+ The app is deployed on ngrok provisionally.<br>
+ Credentials for Facebook Account for bot page :<br>
+ Email : submissionbyiitg@gmail.com<br>
  password : iitgchatbot123
  
  Page link : https://www.facebook.com/Federal-Bank-Buddy-141648523029088/
