@@ -8,15 +8,15 @@ from database import db_session
 
 
 conversation = ConversationV1(
-    username= "42e2304b-9085-4f53-9197-780039387fa2",
-    password =  "H02Zt3ypKsRC",
-    version='2017-03-23'
+    username= "**********************",
+    password =  "***************",
+    version='************'
 )
 # replace with your own workspace_id
 workspace_id = 'e48766eb-ddbf-4146-99b1-daf3c2fccffc'
 
 #Token for facebook page
-token = "EAAShV6MKQB0BAFOu8cgjkFqLfOr0VSlHu9f1asDr7GPhUMOaMqyyldfgDYIIQkIeGeqyVvZBVVLNhUZCC0qbapFhk3AGJkjujqZCgaChbaJiBYW1GNZBLyOTpZB3trDqP9Tbfzt8jFishjDd1N8g095Jamlu0ZA4hbwaaN0tjMet9iCMkv4nkQ"
+token = "************************************"
 
 
 app = Flask(__name__)
